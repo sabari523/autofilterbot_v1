@@ -4,13 +4,13 @@
 
 class Translation(object):
     
-    START_TEXT = """<b>Hey {}!!</b>
+    START_TEXT = """<b>Hey {}Hai Welcome To Arv Creation</b>
 <i>Am Just A Advance Auto Filter Bot....😉
 
-Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝
+You Cant Add Me To Your Groups
 
 For More Details Click Help Button Below..
-@CrazyBotsz
+@ARV_2021
 </i>"""    
     
     HELP_TEXT = """
@@ -48,7 +48,7 @@ For More Details Click Help Button Below..
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Auto Filter Bot</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/ARV_2021">@ARV_2021</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
